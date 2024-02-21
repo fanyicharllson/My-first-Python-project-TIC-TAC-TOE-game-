@@ -1,0 +1,8 @@
+charllson - devlper
+paul - Salesman
+pam- receiptionist
+oscar - accountant
+micheal - manager
+peter - chef
+san - doctor/nDavid - doctor
+David - doctor
